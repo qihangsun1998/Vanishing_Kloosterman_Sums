@@ -1,6 +1,6 @@
 # Files of the paper "Vanishing properties of Kloosterman sums and Dyson's conjectures"
 
-This GitHub repository is intended to share the files related to the paper "Vanishing properties of Kloosterman sums and Dyson's conjectures" written by the author Qihang Sun. It contains the following files: 
+This GitHub repository is intended to share the files related to the paper "Vanishing properties of Kloosterman sums and Dyson's conjectures" written by the author Qihang Sun (University of Illinois Urbana-Champaign). It contains the following files: 
 
 1. The version of the paper with whole proof. The submitted version of this paper omits a few cases among the proof, because the whole proof would be long and tedious. For the readers who are interested in all the details for all the cases, I upload the whole proof in the files.
 
